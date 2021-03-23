@@ -1,2 +1,2 @@
 #python3
-#jsonconverter.py <filetoconvert>
+#tojson.py <filetoconvert>
